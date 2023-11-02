@@ -27,7 +27,7 @@ LANGKAH-LANGKAH PERULANGAN
 ![gambar](ss4.png)
 
 # FLOWCHART
-![gambar](flowchart2.jpeg)
+![gambar](flowchart2.jpg)
 
 
 
